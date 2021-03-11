@@ -1,4 +1,4 @@
-Operating Systems (H) 2018
+Software Engineering  2020
 ==========================
 - 课堂：每周四9:45 ~ 12:10，3C202
 - 主讲教师：[薛吟兴](mailto:yxxue@ustc.edu.cn)
