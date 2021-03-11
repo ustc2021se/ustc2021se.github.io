@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+Operating Systems (H) 2018
+==========================
+- 课堂：每周四9:45 ~ 12:10，3C202
+- 主讲教师：[薛吟兴](mailto:yxxue@ustc.edu.cn)
+- 助教：[任潇宁](mailto:hnurxn@163.com)、[李祥威](mailto:lixw20@mail.ustc.edu.cn)、[黎兰兰](mailto:lilanlan123@mail.ustc.edu.cn)、[黄志鹏](mailto:hzp1104@mail.ustc.edu.cn)
+- 讨论交流：QQ群
+- 期末考试：时间地点待定
 
-You can use the [editor on GitHub](https://github.com/ustc2021se/ustc2021se.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+幻灯片
+------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ustc2021se/ustc2021se.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+作业与实验
+----------
